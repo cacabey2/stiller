@@ -1,0 +1,1 @@
+kadastro2 dosyası kullanılacak
