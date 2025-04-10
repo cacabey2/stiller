@@ -20,7 +20,7 @@
                             <CssParameter name="fill-opacity">0.5</CssParameter>
                         </Fill>
                         <Stroke>
-                            <CssParameter name="stroke">#000000</CssParameter> <!-- Siyah çizgi -->
+                            <CssParameter name="stroke">#00AA00</CssParameter>
                             <CssParameter name="stroke-width">2</CssParameter>
                         </Stroke>
                      </PolygonSymbolizer>
