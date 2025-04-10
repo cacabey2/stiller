@@ -30,7 +30,11 @@
                 <Rule>
                     <TextSymbolizer>
                         <Label>
+                        <ogc:Function name="Concat">
+                            <ogc:PropertyName>ada_no</ogc:PropertyName>
+                            <ogc:Literal> / </ogc:Literal>
                             <ogc:PropertyName>parsel_no</ogc:PropertyName>
+                        </ogc:Function>  
                         </Label>
                         <Font>
                             <CssParameter name="font-family">Arial</CssParameter>
