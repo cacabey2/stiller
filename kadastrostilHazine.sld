@@ -16,10 +16,14 @@
                 <Rule>
                     <PolygonSymbolizer>
                         <Fill>
-                            <CssParameter name="fill">#0077B6</CssParameter>
-                            <CssParameter name="fill-opacity">0.65</CssParameter>
+                            <CssParameter name="fill">#B6F7B0</CssParameter>
+                            <CssParameter name="fill-opacity">0.5</CssParameter>
                         </Fill>
-                    </PolygonSymbolizer>
+                        <Stroke>
+                            <CssParameter name="stroke">#000000</CssParameter> <!-- Siyah çizgi -->
+                            <CssParameter name="stroke-width">2</CssParameter>
+                        </Stroke>
+                     </PolygonSymbolizer>
                 </Rule>
 
             </FeatureTypeStyle>
