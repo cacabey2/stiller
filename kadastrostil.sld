@@ -15,10 +15,6 @@
                 <!-- POLYGON STİLİ -->
                 <Rule>
                     <PolygonSymbolizer>
-                        <Fill>
-                            <CssParameter name="fill">#B6F7B0</CssParameter>
-                            <CssParameter name="fill-opacity">0</CssParameter>
-                        </Fill>
                         <Stroke>
                             <CssParameter name="stroke">#000000</CssParameter>
                             <CssParameter name="stroke-width">2</CssParameter>
